@@ -10,7 +10,7 @@ To get started with this application, follow these steps:
 
    ```bash
    git clone https://github.com/your-deema1999/my_strings_api_app.git
-   cd mystrings-api
+   cd my_strings_api_app
    ```
 
 2. Install dependencies:
