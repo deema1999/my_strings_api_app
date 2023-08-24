@@ -22,14 +22,14 @@ To get started with this application, follow these steps:
 3. Create the database and run migrations:
  
     ```bash
-        rails db:create
-        rails db:migrate
+    rails db:create
+    rails db:migrate
     ```     
 
 4. Start the Rails server:
  
     ```bash
-        rails server
+    rails server
     ```     
 
 The application will be available at http://localhost:3000.
